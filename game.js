@@ -2,7 +2,7 @@
 Laurence Svekis
 Instructor, GDE, Application Developer
 Html5 Game from scratch step by step
-learning javascript - udemy 2020
+learning javascript html5 - udemy 2020
 */
 var score = 0;
 var gscore = 0;
